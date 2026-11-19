@@ -1,0 +1,608 @@
+# 场景图库索引 — 图存外部路径，本文件是目录
+# AI 选景：按 folder(地名)/tone/season_hint 筛 → 用 source 路径喂 gen.py -i
+
+## 夏塔 (29 张)
+- id: 夏塔-01_夏塔空镜_雪山松林-f1ca8e
+  source: D:\AI测试素材\夏塔\01_夏塔空镜_雪山松林.jpg
+  size: 2560x3840  tone: 偏冷  sat: 36  hint: ['常规']
+  repo_copy: scenes/夏塔/夏塔-01_夏塔空镜_雪山松林-f1ca8e.jpg
+- id: 夏塔-02-夏塔冰川-超分4K-2842c6
+  source: D:\AI测试素材\夏塔\02-夏塔冰川-超分4K.png
+  size: 2560x3840  tone: 偏冷  sat: 36  hint: ['常规']
+  repo_copy: scenes/夏塔/夏塔-02-夏塔冰川-超分4K-2842c6.jpg
+- id: 夏塔-02_夏塔空镜_举手位置-c8ecc4
+  source: D:\AI测试素材\夏塔\02_夏塔空镜_举手位置.jpg
+  size: 2560x3840  tone: 偏冷  sat: 32  hint: ['常规']
+  repo_copy: scenes/夏塔/夏塔-02_夏塔空镜_举手位置-c8ecc4.jpg
+- id: 夏塔-03-天山旷野-超分4K-1feb64
+  source: D:\AI测试素材\夏塔\03-天山旷野-超分4K.png
+  size: 2160x3840  tone: 偏暖  sat: 35  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-03-天山旷野-超分4K-1feb64.jpg
+- id: 夏塔-04-夏塔八月雪山-超分4K-232824
+  source: D:\AI测试素材\夏塔\04-夏塔八月雪山-超分4K.png
+  size: 2880x3840  tone: 中性  sat: 56  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-04-夏塔八月雪山-超分4K-232824.jpg
+- id: 夏塔-05-夏塔年度九图-超分4K-65cce7
+  source: D:\AI测试素材\夏塔\05-夏塔年度九图-超分4K.png
+  size: 2882x3840  tone: 偏暖  sat: 41  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-05-夏塔年度九图-超分4K-65cce7.jpg
+- id: 夏塔-06-夏塔日照金山-超分4K-c16903
+  source: D:\AI测试素材\夏塔\06-夏塔日照金山-超分4K.png
+  size: 2882x3840  tone: 偏冷  sat: 54  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-06-夏塔日照金山-超分4K-c16903.jpg
+- id: 夏塔-08-在夏塔-超分4K-b6eb6c
+  source: D:\AI测试素材\夏塔\08-在夏塔-超分4K.png
+  size: 3840x2160  tone: 偏冷  sat: 36  hint: ['常规']
+  repo_copy: scenes/夏塔/夏塔-08-在夏塔-超分4K-b6eb6c.jpg
+- id: 夏塔-11-伊犁札记-超分4K-02a542
+  source: D:\AI测试素材\夏塔\11-伊犁札记-超分4K.png
+  size: 3840x2158  tone: 偏冷  sat: 60  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-11-伊犁札记-超分4K-02a542.jpg
+- id: 夏塔-17-夏塔八月雪山2-超分4K-d3a8d9
+  source: D:\AI测试素材\夏塔\17-夏塔八月雪山2-超分4K.png
+  size: 2880x3840  tone: 偏冷  sat: 56  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-17-夏塔八月雪山2-超分4K-d3a8d9.jpg
+- id: 夏塔-18-夏塔清晨-超分4K-073edf
+  source: D:\AI测试素材\夏塔\18-夏塔清晨-超分4K.png
+  size: 2880x3840  tone: 偏冷  sat: 59  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-18-夏塔清晨-超分4K-073edf.jpg
+- id: 夏塔-b02_spruce_couple_4K_portrait-986b9e
+  source: D:\AI测试素材\夏塔\b02_spruce_couple_4K_portrait.png
+  size: 2560x3840  tone: 偏暖  sat: 39  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-b02_spruce_couple_4K_portrait-986b9e.jpg
+- id: 夏塔-b07_butterfly_veil_4K_portrait-695a6a
+  source: D:\AI测试素材\夏塔\b07_butterfly_veil_4K_portrait.png
+  size: 2560x3840  tone: 偏冷  sat: 63  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-b07_butterfly_veil_4K_portrait-695a6a.jpg
+- id: 夏塔-b21_glacier_wall_4K_land-843ea8
+  source: D:\AI测试素材\夏塔\b21_glacier_wall_4K_land.png
+  size: 3840x2560  tone: 偏冷  sat: 55  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-b21_glacier_wall_4K_land-843ea8.jpg
+- id: 夏塔-Remove_all_the_people_and_all__2026-1-73c40d
+  source: D:\AI测试素材\夏塔\Remove_all_the_people_and_all__2026-10-21T11-28-03.png
+  size: 1024x1536  tone: 偏暖  sat: 38  hint: ['常规']
+  repo_copy: scenes/夏塔/夏塔-Remove_all_the_people_and_all__2026-1-73c40d.jpg
+- id: 夏塔-Remove_the_bride_standing_on_t_2026-1-ccdfff
+  source: D:\AI测试素材\夏塔\Remove_the_bride_standing_on_t_2026-10-21T11-26-54.png
+  size: 1024x1536  tone: 偏冷  sat: 58  hint: ['常规']
+  repo_copy: scenes/夏塔/夏塔-Remove_the_bride_standing_on_t_2026-1-ccdfff.jpg
+- id: 夏塔-Remove_the_wedding_couple_and__2026-1-f7f567
+  source: D:\AI测试素材\夏塔\Remove_the_wedding_couple_and__2026-10-21T11-06-31.png
+  size: 1024x1536  tone: 偏冷  sat: 62  hint: ['常规']
+  repo_copy: scenes/夏塔/夏塔-Remove_the_wedding_couple_and__2026-1-f7f567.jpg
+- id: 夏塔-v102_cloud_massif_spruce_flower_meado-116edb
+  source: D:\AI测试素材\夏塔\v102_cloud_massif_spruce_flower_meadow_4K.png
+  size: 3840x2560  tone: 偏冷  sat: 39  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-v102_cloud_massif_spruce_flower_meado-116edb.jpg
+- id: 夏塔-v103_naren_summer_pasture_peak_4K-bf5577
+  source: D:\AI测试素材\夏塔\v103_naren_summer_pasture_peak_4K.png
+  size: 2560x3840  tone: 中性  sat: 43  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-v103_naren_summer_pasture_peak_4K-bf5577.jpg
+- id: 夏塔-v106_meadow_spruce_wall_snowpeaks_4K-b28560
+  source: D:\AI测试素材\夏塔\v106_meadow_spruce_wall_snowpeaks_4K.png
+  size: 3840x2560  tone: 偏冷  sat: 45  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-v106_meadow_spruce_wall_snowpeaks_4K-b28560.jpg
+- id: 夏塔-v108_alpine_meadow_solitary_tree_4K-f55817
+  source: D:\AI测试素材\夏塔\v108_alpine_meadow_solitary_tree_4K.png
+  size: 3840x2560  tone: 偏冷  sat: 93  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-v108_alpine_meadow_solitary_tree_4K-f55817.jpg
+- id: 夏塔-v109_ridge_forest_snow_range_4K-1b8e3c
+  source: D:\AI测试素材\夏塔\v109_ridge_forest_snow_range_4K.png
+  size: 3840x2560  tone: 中性  sat: 52  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-v109_ridge_forest_snow_range_4K-1b8e3c.jpg
+- id: 夏塔-v71_snow_peak_spruce_slope_4K-3f6deb
+  source: D:\AI测试素材\夏塔\v71_snow_peak_spruce_slope_4K.png
+  size: 2560x3840  tone: 偏冷  sat: 91  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-v71_snow_peak_spruce_slope_4K-3f6deb.jpg
+- id: 夏塔-v82_alpine_meadow_spruce_wall_4K-5f10c5
+  source: D:\AI测试素材\夏塔\v82_alpine_meadow_spruce_wall_4K.png
+  size: 3840x2560  tone: 偏暖  sat: 75  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-v82_alpine_meadow_spruce_wall_4K-5f10c5.jpg
+- id: 夏塔-v84_snow_peaks_meadow_road_4K-1fe796
+  source: D:\AI测试素材\夏塔\v84_snow_peaks_meadow_road_4K.png
+  size: 3840x2560  tone: 偏冷  sat: 62  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-v84_snow_peaks_meadow_road_4K-1fe796.jpg
+- id: 夏塔-v95_meadow_snow_peak_cloud_4K-701d97
+  source: D:\AI测试素材\夏塔\v95_meadow_snow_peak_cloud_4K.png
+  size: 2160x3840  tone: 偏暖  sat: 37  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-v95_meadow_snow_peak_cloud_4K-701d97.jpg
+- id: 夏塔-v98_meadow_fence_snow_peaks_4K-2388e1
+  source: D:\AI测试素材\夏塔\v98_meadow_fence_snow_peaks_4K.png
+  size: 3840x2560  tone: 中性  sat: 42  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-v98_meadow_fence_snow_peaks_4K-2388e1.jpg
+- id: 夏塔-夏塔日照金山_横版4K-74330f
+  source: D:\AI测试素材\夏塔\夏塔日照金山_横版4K.jpg
+  size: 3840x2160  tone: 偏冷  sat: 49  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-夏塔日照金山_横版4K-74330f.jpg
+- id: 夏塔-夏塔日照金山_竖版全画幅_4K-812184
+  source: D:\AI测试素材\夏塔\夏塔日照金山_竖版全画幅_4K.jpg
+  size: 2882x3840  tone: 偏冷  sat: 53  hint: ['植被绿']
+  repo_copy: scenes/夏塔/夏塔-夏塔日照金山_竖版全画幅_4K-812184.jpg
+
+## 库尔德宁春夏 (25 张)
+- id: 库尔德宁春夏-05-云杉林海-超分4K-1f15d1
+  source: D:\AI测试素材\库尔德宁春夏\05-云杉林海-超分4K.png
+  size: 3372x3840  tone: 中性  sat: 73  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-05-云杉林海-超分4K-1f15d1.png
+- id: 库尔德宁春夏-09-草原木屋-超分4K-87e171
+  source: D:\AI测试素材\库尔德宁春夏\09-草原木屋-超分4K.png
+  size: 2880x3840  tone: 偏冷  sat: 72  hint: ['植被绿', '暖黄(秋/夕)']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-09-草原木屋-超分4K-87e171.png
+- id: 库尔德宁春夏-13-雪山松谷-超分4K-ce1e51
+  source: D:\AI测试素材\库尔德宁春夏\13-雪山松谷-超分4K.png
+  size: 2880x3840  tone: 中性  sat: 48  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-13-雪山松谷-超分4K-ce1e51.png
+- id: 库尔德宁春夏-14-绿谷土路-超分4K-80d7a2
+  source: D:\AI测试素材\库尔德宁春夏\14-绿谷土路-超分4K.png
+  size: 2560x3840  tone: 偏冷  sat: 60  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-14-绿谷土路-超分4K-80d7a2.png
+- id: 库尔德宁春夏-16-雪峰草甸-超分4K-81c60f
+  source: D:\AI测试素材\库尔德宁春夏\16-雪峰草甸-超分4K.png
+  size: 2160x3840  tone: 偏冷  sat: 94  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-16-雪峰草甸-超分4K-81c60f.png
+- id: 库尔德宁春夏-b05_snowpeak_wedding_4K_portrait-dc5a63
+  source: D:\AI测试素材\库尔德宁春夏\b05_snowpeak_wedding_4K_portrait.png
+  size: 2560x3840  tone: 偏暖  sat: 40  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-b05_snowpeak_wedding_4K_portrait-dc5a63.png
+- id: 库尔德宁春夏-b09_forest_glade_4K_portrait-b45ba3
+  source: D:\AI测试素材\库尔德宁春夏\b09_forest_glade_4K_portrait.png
+  size: 2560x3840  tone: 偏暖  sat: 35  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-b09_forest_glade_4K_portrait-b45ba3.png
+- id: 库尔德宁春夏-b12_snow_forest_meadow_4K_land-d72d71
+  source: D:\AI测试素材\库尔德宁春夏\b12_snow_forest_meadow_4K_land.png
+  size: 3840x2560  tone: 偏冷  sat: 54  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-b12_snow_forest_meadow_4K_land-d72d71.png
+- id: 库尔德宁春夏-kurd1_4K_landscape-0e5910
+  source: D:\AI测试素材\库尔德宁春夏\kurd1_4K_landscape.png
+  size: 3840x2560  tone: 偏冷  sat: 40  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-kurd1_4K_landscape-0e5910.png
+- id: 库尔德宁春夏-kurd2b_4K_landscape-f625e9
+  source: D:\AI测试素材\库尔德宁春夏\kurd2b_4K_landscape.png
+  size: 3840x2560  tone: 偏冷  sat: 42  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-kurd2b_4K_landscape-f625e9.png
+- id: 库尔德宁春夏-kurd7_4K_landscape-c02867
+  source: D:\AI测试素材\库尔德宁春夏\kurd7_4K_landscape.png
+  size: 3840x2560  tone: 偏暖  sat: 44  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-kurd7_4K_landscape-c02867.png
+- id: 库尔德宁春夏-kurdening_4K_landscape-2d534f
+  source: D:\AI测试素材\库尔德宁春夏\kurdening_4K_landscape.png
+  size: 3840x2560  tone: 中性  sat: 44  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-kurdening_4K_landscape-2d534f.png
+- id: 库尔德宁春夏-Remove_the_wedding_couple_stan_20-4ec0ba
+  source: D:\AI测试素材\库尔德宁春夏\Remove_the_wedding_couple_stan_2026-10-21T11-13-58.png
+  size: 1024x1536  tone: 偏暖  sat: 43  hint: ['植被绿', '暖黄(秋/夕)']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-Remove_the_wedding_couple_stan_20-4ec0ba.png
+- id: 库尔德宁春夏-s2_glacier_arch_4K-17de99
+  source: D:\AI测试素材\库尔德宁春夏\s2_glacier_arch_4K.png
+  size: 2560x3840  tone: 偏冷  sat: 42  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-s2_glacier_arch_4K-17de99.png
+- id: 库尔德宁春夏-s3_glacier_aisle_4K-a76820
+  source: D:\AI测试素材\库尔德宁春夏\s3_glacier_aisle_4K.png
+  size: 2560x3840  tone: 偏冷  sat: 52  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-s3_glacier_aisle_4K-a76820.png
+- id: 库尔德宁春夏-v30_apple_blossom_tree_4K-52c964
+  source: D:\AI测试素材\库尔德宁春夏\v30_apple_blossom_tree_4K.png
+  size: 2560x3840  tone: 偏暖  sat: 51  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-v30_apple_blossom_tree_4K-52c964.png
+- id: 库尔德宁春夏-v35_snow_mountain_spruce_4K-759848
+  source: D:\AI测试素材\库尔德宁春夏\v35_snow_mountain_spruce_4K.png
+  size: 2560x3840  tone: 中性  sat: 37  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-v35_snow_mountain_spruce_4K-759848.png
+- id: 库尔德宁春夏-v43_snow_massif_stream_4K-c9bdce
+  source: D:\AI测试素材\库尔德宁春夏\v43_snow_massif_stream_4K.png
+  size: 2560x3840  tone: 偏冷  sat: 35  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-v43_snow_massif_stream_4K-c9bdce.png
+- id: 库尔德宁春夏-v44_spruce_shade_lawn_4K-492bd3
+  source: D:\AI测试素材\库尔德宁春夏\v44_spruce_shade_lawn_4K.png
+  size: 2560x3840  tone: 偏暖  sat: 43  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-v44_spruce_shade_lawn_4K-492bd3.png
+- id: 库尔德宁春夏-v47_pasture_cabins_meadow_4K-ea0d65
+  source: D:\AI测试素材\库尔德宁春夏\v47_pasture_cabins_meadow_4K.png
+  size: 2560x3840  tone: 中性  sat: 57  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-v47_pasture_cabins_meadow_4K-ea0d65.png
+- id: 库尔德宁春夏-v86_spruce_forest_snow_slope_4K-7d92b0
+  source: D:\AI测试素材\库尔德宁春夏\v86_spruce_forest_snow_slope_4K.png
+  size: 3840x2560  tone: 偏冷  sat: 32  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-v86_spruce_forest_snow_slope_4K-7d92b0.png
+- id: 库尔德宁春夏-wed6_4K_portrait-a7092e
+  source: D:\AI测试素材\库尔德宁春夏\wed6_4K_portrait.png
+  size: 2560x3840  tone: 偏冷  sat: 48  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-wed6_4K_portrait-a7092e.png
+- id: 库尔德宁春夏-伊犁湖畔花海_横版4K-d3e98e
+  source: D:\AI测试素材\库尔德宁春夏\伊犁湖畔花海_横版4K.jpg
+  size: 3840x2160  tone: 中性  sat: 50  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-伊犁湖畔花海_横版4K-d3e98e.png
+- id: 库尔德宁春夏-伊犁草原牧群_横版4K-1f17ab
+  source: D:\AI测试素材\库尔德宁春夏\伊犁草原牧群_横版4K.jpg
+  size: 3840x2160  tone: 偏冷  sat: 63  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-伊犁草原牧群_横版4K-1f17ab.png
+- id: 库尔德宁春夏-伊犁雪山云杉_横版4K-baf68d
+  source: D:\AI测试素材\库尔德宁春夏\伊犁雪山云杉_横版4K.jpg
+  size: 3840x2160  tone: 偏冷  sat: 55  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁春夏-伊犁雪山云杉_横版4K-baf68d.png
+
+## 库尔德宁秋冬 (3 张)
+- id: 库尔德宁秋冬-v07_rapeseed_field_4K-7a66c1
+  source: D:\AI测试素材\库尔德宁秋冬\v07_rapeseed_field_4K.png
+  size: 2560x3840  tone: 偏暖  sat: 77  hint: ['暖黄(秋/夕)']
+  repo_copy: scenes/库尔德宁/库尔德宁秋冬-v07_rapeseed_field_4K-7a66c1.jpg
+- id: 库尔德宁秋冬-v28_qiaxi_golden_sea_4K-28a889
+  source: D:\AI测试素材\库尔德宁秋冬\v28_qiaxi_golden_sea_4K.png
+  size: 2560x3840  tone: 偏暖  sat: 72  hint: ['常规']
+  repo_copy: scenes/库尔德宁/库尔德宁秋冬-v28_qiaxi_golden_sea_4K-28a889.jpg
+- id: 库尔德宁秋冬-v31_snow_flower_arch_4K-738d46
+  source: D:\AI测试素材\库尔德宁秋冬\v31_snow_flower_arch_4K.png
+  size: 2560x3840  tone: 偏冷  sat: 46  hint: ['常规']
+  repo_copy: scenes/库尔德宁/库尔德宁秋冬-v31_snow_flower_arch_4K-738d46.jpg
+
+## 恰西 (28 张)
+- id: 恰西-01-恰西绿谷-超分4K-50528d
+  source: D:\AI测试素材\恰西\01-恰西绿谷-超分4K.png
+  size: 2880x3840  tone: 中性  sat: 61  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-01-恰西绿谷-超分4K-50528d.jpg
+- id: 恰西-02-恰西林海马-超分4K-ef2288
+  source: D:\AI测试素材\恰西\02-恰西林海马-超分4K.png
+  size: 3840x2880  tone: 偏暖  sat: 44  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-02-恰西林海马-超分4K-ef2288.jpg
+- id: 恰西-04-山丘牛群-超分4K-be80c3
+  source: D:\AI测试素材\恰西\04-山丘牛群-超分4K.png
+  size: 2304x3840  tone: 偏暖  sat: 52  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-04-山丘牛群-超分4K-be80c3.jpg
+- id: 恰西-06-雪峰林海-超分4K-5f5381
+  source: D:\AI测试素材\恰西\06-雪峰林海-超分4K.png
+  size: 2303x3840  tone: 偏冷  sat: 138  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-06-雪峰林海-超分4K-5f5381.jpg
+- id: 恰西-07-蓝色水库-超分4K-c38f74
+  source: D:\AI测试素材\恰西\07-蓝色水库-超分4K.png
+  size: 2560x3840  tone: 偏冷  sat: 37  hint: ['常规']
+  repo_copy: scenes/恰西/恰西-07-蓝色水库-超分4K-c38f74.jpg
+- id: 恰西-09-恰西河谷-超分4K-01013d
+  source: D:\AI测试素材\恰西\09-恰西河谷-超分4K.png
+  size: 2880x3840  tone: 偏冷  sat: 59  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-09-恰西河谷-超分4K-01013d.jpg
+- id: 恰西-10-雪山骏马-超分4K-1be02c
+  source: D:\AI测试素材\恰西\10-雪山骏马-超分4K.png
+  size: 3840x2158  tone: 偏冷  sat: 63  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-10-雪山骏马-超分4K-1be02c.jpg
+- id: 恰西-11-雪山松谷-超分4K-b8f18e
+  source: D:\AI测试素材\恰西\11-雪山松谷-超分4K.png
+  size: 2313x3840  tone: 偏冷  sat: 82  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-11-雪山松谷-超分4K-b8f18e.jpg
+- id: 恰西-13-高原花海-超分4K-b26c09
+  source: D:\AI测试素材\恰西\13-高原花海-超分4K.png
+  size: 2304x3840  tone: 偏暖  sat: 89  hint: ['植被绿', '暖黄(秋/夕)']
+  repo_copy: scenes/恰西/恰西-13-高原花海-超分4K-b26c09.jpg
+- id: 恰西-14-松林山坡-超分4K-150936
+  source: D:\AI测试素材\恰西\14-松林山坡-超分4K.png
+  size: 3840x2158  tone: 偏冷  sat: 57  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-14-松林山坡-超分4K-150936.jpg
+- id: 恰西-b13_meadow_run_4K_land-5eaacf
+  source: D:\AI测试素材\恰西\b13_meadow_run_4K_land.png
+  size: 3840x2560  tone: 中性  sat: 74  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-b13_meadow_run_4K_land-5eaacf.jpg
+- id: 恰西-b16_spruce_ridge_4K_land-3e65a6
+  source: D:\AI测试素材\恰西\b16_spruce_ridge_4K_land.png
+  size: 3840x2560  tone: 中性  sat: 45  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-b16_spruce_ridge_4K_land-3e65a6.jpg
+- id: 恰西-b17_sunset_daisy_4K_land-9f6b59
+  source: D:\AI测试素材\恰西\b17_sunset_daisy_4K_land.png
+  size: 3840x2560  tone: 偏冷  sat: 43  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-b17_sunset_daisy_4K_land-9f6b59.jpg
+- id: 恰西-b18_alpine_slope_4K_land-8d63b3
+  source: D:\AI测试素材\恰西\b18_alpine_slope_4K_land.png
+  size: 3840x2560  tone: 偏冷  sat: 79  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-b18_alpine_slope_4K_land-8d63b3.jpg
+- id: 恰西-b19_dandelion_slope_4K_land-484d2d
+  source: D:\AI测试素材\恰西\b19_dandelion_slope_4K_land.png
+  size: 3840x2560  tone: 偏暖  sat: 43  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-b19_dandelion_slope_4K_land-484d2d.jpg
+- id: 恰西-b20_wide_meadow_4K_land-1b2aab
+  source: D:\AI测试素材\恰西\b20_wide_meadow_4K_land.png
+  size: 3840x2560  tone: 中性  sat: 38  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-b20_wide_meadow_4K_land-1b2aab.jpg
+- id: 恰西-Remove_the_bride_standing_on_t_2026-1-02fa0d
+  source: D:\AI测试素材\恰西\Remove_the_bride_standing_on_t_2026-10-21T11-29-06.png
+  size: 1024x1536  tone: 偏暖  sat: 29  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-Remove_the_bride_standing_on_t_2026-1-02fa0d.jpg
+- id: 恰西-Remove_the_wedding_couple_and__2026-1-d3826f
+  source: D:\AI测试素材\恰西\Remove_the_wedding_couple_and__2026-10-21T11-06-03.png
+  size: 1024x1536  tone: 偏冷  sat: 65  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-Remove_the_wedding_couple_and__2026-1-d3826f.jpg
+- id: 恰西-v100_qiaxi_slope_horses_4K-14ed50
+  source: D:\AI测试素材\恰西\v100_qiaxi_slope_horses_4K.png
+  size: 2160x3840  tone: 偏冷  sat: 83  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-v100_qiaxi_slope_horses_4K-14ed50.jpg
+- id: 恰西-v101_rolling_meadow_snow_range_4K-1b9d9f
+  source: D:\AI测试素材\恰西\v101_rolling_meadow_snow_range_4K.png
+  size: 2160x3840  tone: 偏暖  sat: 60  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-v101_rolling_meadow_snow_range_4K-1b9d9f.jpg
+- id: 恰西-v107_wildflower_valley_ridges_4K-68a18e
+  source: D:\AI测试素材\恰西\v107_wildflower_valley_ridges_4K.png
+  size: 3840x2560  tone: 中性  sat: 42  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-v107_wildflower_valley_ridges_4K-68a18e.jpg
+- id: 恰西-v38_meadow_aisle_wide_4K-35308c
+  source: D:\AI测试素材\恰西\v38_meadow_aisle_wide_4K.png
+  size: 2560x3840  tone: 偏暖  sat: 43  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-v38_meadow_aisle_wide_4K-35308c.jpg
+- id: 恰西-v39_sunlit_arch_aisle_4K-31b2fb
+  source: D:\AI测试素材\恰西\v39_sunlit_arch_aisle_4K.png
+  size: 2560x3840  tone: 中性  sat: 25  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-v39_sunlit_arch_aisle_4K-31b2fb.jpg
+- id: 恰西-v40_arch_aisle_evening_4K-f94900
+  source: D:\AI测试素材\恰西\v40_arch_aisle_evening_4K.png
+  size: 2560x3840  tone: 中性  sat: 28  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-v40_arch_aisle_evening_4K-f94900.jpg
+- id: 恰西-v42_snow_ridge_meadow_4K-7908e8
+  source: D:\AI测试素材\恰西\v42_snow_ridge_meadow_4K.png
+  size: 2560x3840  tone: 偏冷  sat: 36  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-v42_snow_ridge_meadow_4K-7908e8.jpg
+- id: 恰西-v83_cloudy_meadow_valley_4K-b83802
+  source: D:\AI测试素材\恰西\v83_cloudy_meadow_valley_4K.png
+  size: 3840x2560  tone: 偏暖  sat: 31  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-v83_cloudy_meadow_valley_4K-b83802.jpg
+- id: 恰西-v90_camp_valley_golden_peak_4K-6bdc17
+  source: D:\AI测试素材\恰西\v90_camp_valley_golden_peak_4K.png
+  size: 3840x2560  tone: 中性  sat: 43  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-v90_camp_valley_golden_peak_4K-6bdc17.jpg
+- id: 恰西-v99_qiaxi_meadow_snow_peaks_4K-914f2c
+  source: D:\AI测试素材\恰西\v99_qiaxi_meadow_snow_peaks_4K.png
+  size: 2160x3840  tone: 偏冷  sat: 94  hint: ['植被绿']
+  repo_copy: scenes/恰西/恰西-v99_qiaxi_meadow_snow_peaks_4K-914f2c.jpg
+
+## 果子沟 (18 张)
+- id: 果子沟-Remove_the_bride_standing_on_t_2026--821c44
+  source: D:\AI测试素材\果子沟\Remove_the_bride_standing_on_t_2026-10-21T11-28-36.png
+  size: 1024x1536  tone: 偏冷  sat: 14  hint: ['常规']
+  repo_copy: scenes/果子沟/果子沟-Remove_the_bride_standing_on_t_2026--821c44.jpg
+- id: 果子沟-Remove_the_wedding_couple_stan_2026--ec2e3e
+  source: D:\AI测试素材\果子沟\Remove_the_wedding_couple_stan_2026-10-21T11-26-22.png
+  size: 1536x1024  tone: 中性  sat: 6  hint: ['常规']
+  repo_copy: scenes/果子沟/果子沟-Remove_the_wedding_couple_stan_2026--ec2e3e.jpg
+- id: 果子沟-v05_spruce_gap_4K-149f28
+  source: D:\AI测试素材\果子沟\v05_spruce_gap_4K.png
+  size: 2560x3840  tone: 中性  sat: 41  hint: ['植被绿']
+  repo_copy: scenes/果子沟/果子沟-v05_spruce_gap_4K-149f28.jpg
+- id: 果子沟-v09_spruce_grove_4K-1eada9
+  source: D:\AI测试素材\果子沟\v09_spruce_grove_4K.png
+  size: 2560x3840  tone: 偏暖  sat: 38  hint: ['植被绿']
+  repo_copy: scenes/果子沟/果子沟-v09_spruce_grove_4K-1eada9.jpg
+- id: 果子沟-v105_meadow_valley_snow_range_4K-3d3d20
+  source: D:\AI测试素材\果子沟\v105_meadow_valley_snow_range_4K.png
+  size: 3840x2560  tone: 偏冷  sat: 38  hint: ['植被绿']
+  repo_copy: scenes/果子沟/果子沟-v105_meadow_valley_snow_range_4K-3d3d20.jpg
+- id: 果子沟-v11_glacier_meadow_4K-201fd4
+  source: D:\AI测试素材\果子沟\v11_glacier_meadow_4K.png
+  size: 2560x3840  tone: 偏暖  sat: 35  hint: ['植被绿']
+  repo_copy: scenes/果子沟/果子沟-v11_glacier_meadow_4K-201fd4.jpg
+- id: 果子沟-v15_sunset_venue_4K-85c11a
+  source: D:\AI测试素材\果子沟\v15_sunset_venue_4K.png
+  size: 2560x3840  tone: 偏暖  sat: 44  hint: ['植被绿']
+  repo_copy: scenes/果子沟/果子沟-v15_sunset_venue_4K-85c11a.jpg
+- id: 果子沟-v17_dandelion_pasture_4K-838d91
+  source: D:\AI测试素材\果子沟\v17_dandelion_pasture_4K.png
+  size: 2560x3840  tone: 中性  sat: 66  hint: ['植被绿']
+  repo_copy: scenes/果子沟/果子沟-v17_dandelion_pasture_4K-838d91.jpg
+- id: 果子沟-v18_meadow_spruce_4K-2b53d5
+  source: D:\AI测试素材\果子沟\v18_meadow_spruce_4K.png
+  size: 2560x3840  tone: 中性  sat: 84  hint: ['植被绿', '暖黄(秋/夕)']
+  repo_copy: scenes/果子沟/果子沟-v18_meadow_spruce_4K-2b53d5.jpg
+- id: 果子沟-v19_horses_meadow_4K-67f185
+  source: D:\AI测试素材\果子沟\v19_horses_meadow_4K.png
+  size: 2560x3840  tone: 中性  sat: 116  hint: ['暖黄(秋/夕)']
+  repo_copy: scenes/果子沟/果子沟-v19_horses_meadow_4K-67f185.jpg
+- id: 果子沟-v20_golden_slope_4K-30574f
+  source: D:\AI测试素材\果子沟\v20_golden_slope_4K.png
+  size: 2560x3840  tone: 偏暖  sat: 35  hint: ['植被绿']
+  repo_copy: scenes/果子沟/果子沟-v20_golden_slope_4K-30574f.jpg
+- id: 果子沟-v24_white_flower_path_4K-603fc6
+  source: D:\AI测试素材\果子沟\v24_white_flower_path_4K.png
+  size: 2560x3840  tone: 偏暖  sat: 59  hint: ['植被绿']
+  repo_copy: scenes/果子沟/果子沟-v24_white_flower_path_4K-603fc6.jpg
+- id: 果子沟-v29_snow_peak_spruce_4K-28a23f
+  source: D:\AI测试素材\果子沟\v29_snow_peak_spruce_4K.png
+  size: 2560x3840  tone: 中性  sat: 28  hint: ['植被绿']
+  repo_copy: scenes/果子沟/果子沟-v29_snow_peak_spruce_4K-28a23f.jpg
+- id: 果子沟-v32_spruce_forest_edge_4K-7526fd
+  source: D:\AI测试素材\果子沟\v32_spruce_forest_edge_4K.png
+  size: 2560x3840  tone: 偏暖  sat: 32  hint: ['植被绿']
+  repo_copy: scenes/果子沟/果子沟-v32_spruce_forest_edge_4K-7526fd.jpg
+- id: 果子沟-v34_green_arch_meadow_4K-0de2f4
+  source: D:\AI测试素材\果子沟\v34_green_arch_meadow_4K.png
+  size: 2560x3840  tone: 偏冷  sat: 33  hint: ['植被绿']
+  repo_copy: scenes/果子沟/果子沟-v34_green_arch_meadow_4K-0de2f4.jpg
+- id: 果子沟-v37_cake_table_meadow_4K-c9b84c
+  source: D:\AI测试素材\果子沟\v37_cake_table_meadow_4K.png
+  size: 2560x3840  tone: 中性  sat: 34  hint: ['植被绿']
+  repo_copy: scenes/果子沟/果子沟-v37_cake_table_meadow_4K-c9b84c.jpg
+- id: 果子沟-v48_kurdning_terrace_valley_4K-838348
+  source: D:\AI测试素材\果子沟\v48_kurdning_terrace_valley_4K.png
+  size: 2560x3840  tone: 偏暖  sat: 36  hint: ['植被绿']
+  repo_copy: scenes/果子沟/果子沟-v48_kurdning_terrace_valley_4K-838348.jpg
+- id: 果子沟-v80_sunset_snow_ridge_4K-c8bba4
+  source: D:\AI测试素材\果子沟\v80_sunset_snow_ridge_4K.png
+  size: 3840x2560  tone: 偏冷  sat: 49  hint: ['常规']
+  repo_copy: scenes/果子沟/果子沟-v80_sunset_snow_ridge_4K-c8bba4.jpg
+
+## 赛里木湖-冬 (18 张)
+- id: 赛里木湖-冬-02-赛湖蓝-超分4K-de6eba
+  source: D:\AI测试素材\赛里木湖-冬\02-赛湖蓝-超分4K.png
+  size: 2880x3840  tone: 偏冷  sat: 103  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-02-赛湖蓝-超分4K-de6eba.jpg
+- id: 赛里木湖-冬-04-初冬赛湖-超分4K-6d24cf
+  source: D:\AI测试素材\赛里木湖-冬\04-初冬赛湖-超分4K.png
+  size: 2304x3840  tone: 偏冷  sat: 77  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-04-初冬赛湖-超分4K-6d24cf.jpg
+- id: 赛里木湖-冬-07-堤道雪山-超分4K-2f6a76
+  source: D:\AI测试素材\赛里木湖-冬\07-堤道雪山-超分4K.png
+  size: 3840x2560  tone: 偏冷  sat: 57  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-07-堤道雪山-超分4K-2f6a76.jpg
+- id: 赛里木湖-冬-10-冬湖壁纸-超分4K-9794e1
+  source: D:\AI测试素材\赛里木湖-冬\10-冬湖壁纸-超分4K.png
+  size: 2880x3840  tone: 偏冷  sat: 129  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-10-冬湖壁纸-超分4K-9794e1.jpg
+- id: 赛里木湖-冬-12-高原大湖-超分4K-91e191
+  source: D:\AI测试素材\赛里木湖-冬\12-高原大湖-超分4K.png
+  size: 2160x3840  tone: 偏冷  sat: 46  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-12-高原大湖-超分4K-91e191.jpg
+- id: 赛里木湖-冬-20-冬日蓝湖-超分4K-34c5ee
+  source: D:\AI测试素材\赛里木湖-冬\20-冬日蓝湖-超分4K.png
+  size: 3840x2560  tone: 偏冷  sat: 52  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-20-冬日蓝湖-超分4K-34c5ee.jpg
+- id: 赛里木湖-冬-b11_swan_shore_4K_land-2665c3
+  source: D:\AI测试素材\赛里木湖-冬\b11_swan_shore_4K_land.png
+  size: 3840x2560  tone: 偏冷  sat: 44  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-b11_swan_shore_4K_land-2665c3.jpg
+- id: 赛里木湖-冬-b22_swan_shore_4K_land-b90423
+  source: D:\AI测试素材\赛里木湖-冬\b22_swan_shore_4K_land.png
+  size: 3840x2560  tone: 偏冷  sat: 61  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-b22_swan_shore_4K_land-b90423.jpg
+- id: 赛里木湖-冬-b23_blueice_range_4K_land-69e56a
+  source: D:\AI测试素材\赛里木湖-冬\b23_blueice_range_4K_land.png
+  size: 3840x2560  tone: 偏冷  sat: 46  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-b23_blueice_range_4K_land-69e56a.jpg
+- id: 赛里木湖-冬-b24_blueice_sky_4K_land-736347
+  source: D:\AI测试素材\赛里木湖-冬\b24_blueice_sky_4K_land.png
+  size: 3840x2560  tone: 偏冷  sat: 79  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-b24_blueice_sky_4K_land-736347.jpg
+- id: 赛里木湖-冬-blueice6_4K_landscape-25b265
+  source: D:\AI测试素材\赛里木湖-冬\blueice6_4K_landscape.png
+  size: 2560x3840  tone: 偏冷  sat: 106  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-blueice6_4K_landscape-25b265.jpg
+- id: 赛里木湖-冬-blueice_nofence_4K-abb593
+  source: D:\AI测试素材\赛里木湖-冬\blueice_nofence_4K.png
+  size: 2560x3840  tone: 偏冷  sat: 94  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-blueice_nofence_4K-abb593.jpg
+- id: 赛里木湖-冬-snow6_4K_portrait-434ac0
+  source: D:\AI测试素材\赛里木湖-冬\snow6_4K_portrait.png
+  size: 2560x3840  tone: 偏冷  sat: 73  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-snow6_4K_portrait-434ac0.jpg
+- id: 赛里木湖-冬-v104_winter_lake_snow_shore_4K-404215
+  source: D:\AI测试素材\赛里木湖-冬\v104_winter_lake_snow_shore_4K.png
+  size: 3840x2560  tone: 偏冷  sat: 71  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-v104_winter_lake_snow_shore_4K-404215.jpg
+- id: 赛里木湖-冬-v72_pink_range_lake_4K-edeada
+  source: D:\AI测试素材\赛里木湖-冬\v72_pink_range_lake_4K.png
+  size: 2560x3840  tone: 偏冷  sat: 59  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-v72_pink_range_lake_4K-edeada.jpg
+- id: 赛里木湖-冬-v73_frozen_lake_snow_range_4K-0d2dc1
+  source: D:\AI测试素材\赛里木湖-冬\v73_frozen_lake_snow_range_4K.png
+  size: 2560x3840  tone: 偏冷  sat: 72  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-v73_frozen_lake_snow_range_4K-0d2dc1.jpg
+- id: 赛里木湖-冬-v81_frozen_lake_snow_range_4K-4d39f2
+  source: D:\AI测试素材\赛里木湖-冬\v81_frozen_lake_snow_range_4K.png
+  size: 3840x2560  tone: 偏冷  sat: 50  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-v81_frozen_lake_snow_range_4K-4d39f2.jpg
+- id: 赛里木湖-冬-v85_sayram_lake_snow_shore_4K-c94687
+  source: D:\AI测试素材\赛里木湖-冬\v85_sayram_lake_snow_shore_4K.png
+  size: 3840x2560  tone: 偏冷  sat: 99  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-冬-v85_sayram_lake_snow_shore_4K-c94687.jpg
+
+## 赛里木湖-春夏 (6 张)
+- id: 赛里木湖-春夏-03-碎石滩纯净-超分4K-6fefb0
+  source: D:\AI测试素材\赛里木湖-春夏\03-碎石滩纯净-超分4K.png
+  size: 3840x2560  tone: 偏冷  sat: 62  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-春夏-03-碎石滩纯净-超分4K-6fefb0.jpg
+- id: 赛里木湖-春夏-19-俯瞰大湖-超分4K-7f0e81
+  source: D:\AI测试素材\赛里木湖-春夏\19-俯瞰大湖-超分4K.png
+  size: 3840x2880  tone: 偏冷  sat: 115  hint: ['植被绿']
+  repo_copy: scenes/赛里木湖/赛里木湖-春夏-19-俯瞰大湖-超分4K-7f0e81.jpg
+- id: 赛里木湖-春夏-b03_guitar_meadow_4K_portrait-569843
+  source: D:\AI测试素材\赛里木湖-春夏\b03_guitar_meadow_4K_portrait.png
+  size: 2560x3840  tone: 偏冷  sat: 73  hint: ['植被绿']
+  repo_copy: scenes/赛里木湖/赛里木湖-春夏-b03_guitar_meadow_4K_portrait-569843.jpg
+- id: 赛里木湖-春夏-b10_flower_meadow_4K_land-fcaa3f
+  source: D:\AI测试素材\赛里木湖-春夏\b10_flower_meadow_4K_land.png
+  size: 3840x2560  tone: 偏冷  sat: 40  hint: ['植被绿']
+  repo_copy: scenes/赛里木湖/赛里木湖-春夏-b10_flower_meadow_4K_land-fcaa3f.jpg
+- id: 赛里木湖-春夏-b14_lake_meadow_4K_land-bc3c97
+  source: D:\AI测试素材\赛里木湖-春夏\b14_lake_meadow_4K_land.png
+  size: 3840x2560  tone: 中性  sat: 80  hint: ['植被绿']
+  repo_copy: scenes/赛里木湖/赛里木湖-春夏-b14_lake_meadow_4K_land-bc3c97.jpg
+- id: 赛里木湖-春夏-b15_flower_lake_4K_land-aaf784
+  source: D:\AI测试素材\赛里木湖-春夏\b15_flower_lake_4K_land.png
+  size: 3840x2560  tone: 偏冷  sat: 95  hint: ['植被绿']
+  repo_copy: scenes/赛里木湖/赛里木湖-春夏-b15_flower_lake_4K_land-aaf784.jpg
+
+## 赛里木湖-秋 (7 张)
+- id: 赛里木湖-秋-08-十号赛湖-超分4K-d37fe1
+  source: D:\AI测试素材\赛里木湖-秋\08-十号赛湖-超分4K.png
+  size: 2160x3840  tone: 中性  sat: 65  hint: ['暖黄(秋/夕)']
+  repo_copy: scenes/赛里木湖/赛里木湖-秋-08-十号赛湖-超分4K-d37fe1.jpg
+- id: 赛里木湖-秋-11-金光湖岸-超分4K-801b14
+  source: D:\AI测试素材\赛里木湖-秋\11-金光湖岸-超分4K.png
+  size: 3840x2560  tone: 偏冷  sat: 65  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-秋-11-金光湖岸-超分4K-801b14.jpg
+- id: 赛里木湖-秋-b01_lake_parasol_4K_portrait-0d006e
+  source: D:\AI测试素材\赛里木湖-秋\b01_lake_parasol_4K_portrait.png
+  size: 2560x3840  tone: 偏冷  sat: 115  hint: ['植被绿']
+  repo_copy: scenes/赛里木湖/赛里木湖-秋-b01_lake_parasol_4K_portrait-0d006e.jpg
+- id: 赛里木湖-秋-Remove_all_the_people_and_all__20-daab4d
+  source: D:\AI测试素材\赛里木湖-秋\Remove_all_the_people_and_all__2026-10-21T11-13-01.png
+  size: 1536x1024  tone: 偏暖  sat: 67  hint: ['暖黄(秋/夕)']
+  repo_copy: scenes/赛里木湖/赛里木湖-秋-Remove_all_the_people_and_all__20-daab4d.jpg
+- id: 赛里木湖-秋-swan2_4K_landscape-e87cc9
+  source: D:\AI测试素材\赛里木湖-秋\swan2_4K_landscape.png
+  size: 3840x2560  tone: 偏冷  sat: 60  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-秋-swan2_4K_landscape-e87cc9.jpg
+- id: 赛里木湖-秋-swan4_4K_landscape-ce91eb
+  source: D:\AI测试素材\赛里木湖-秋\swan4_4K_landscape.png
+  size: 3840x2560  tone: 偏冷  sat: 63  hint: ['植被绿']
+  repo_copy: scenes/赛里木湖/赛里木湖-秋-swan4_4K_landscape-ce91eb.jpg
+- id: 赛里木湖-秋-v22_pink_arch_4K-44b336
+  source: D:\AI测试素材\赛里木湖-秋\v22_pink_arch_4K.png
+  size: 2560x3840  tone: 中性  sat: 66  hint: ['常规']
+  repo_copy: scenes/赛里木湖/赛里木湖-秋-v22_pink_arch_4K-44b336.jpg
+
+## 那拉提 (11 张)
+- id: 那拉提-08-那拉提蒙古包-超分4K-c90f0c
+  source: D:\AI测试素材\那拉提\08-那拉提蒙古包-超分4K.png
+  size: 2880x3840  tone: 偏暖  sat: 86  hint: ['植被绿']
+  repo_copy: scenes/那拉提/那拉提-08-那拉提蒙古包-超分4K-c90f0c.jpg
+- id: 那拉提-20-那拉提夕阳-超分4K-3aac7c
+  source: D:\AI测试素材\那拉提\20-那拉提夕阳-超分4K.png
+  size: 2560x3840  tone: 中性  sat: 94  hint: ['植被绿', '暖黄(秋/夕)']
+  repo_copy: scenes/那拉提/那拉提-20-那拉提夕阳-超分4K-3aac7c.jpg
+- id: 那拉提-21-空中草原意义-超分4K-763a32
+  source: D:\AI测试素材\那拉提\21-空中草原意义-超分4K.png
+  size: 2880x3840  tone: 中性  sat: 29  hint: ['植被绿']
+  repo_copy: scenes/那拉提/那拉提-21-空中草原意义-超分4K-763a32.jpg
+- id: 那拉提-23-最美那拉提-超分4K-a19dff
+  source: D:\AI测试素材\那拉提\23-最美那拉提-超分4K.png
+  size: 2880x3840  tone: 偏冷  sat: 126  hint: ['植被绿']
+  repo_copy: scenes/那拉提/那拉提-23-最美那拉提-超分4K-a19dff.jpg
+- id: 那拉提-28-那拉提艺术展-超分4K-16a221
+  source: D:\AI测试素材\那拉提\28-那拉提艺术展-超分4K.png
+  size: 2884x3840  tone: 偏冷  sat: 102  hint: ['植被绿', '暖黄(秋/夕)']
+  repo_copy: scenes/那拉提/那拉提-28-那拉提艺术展-超分4K-16a221.jpg
+- id: 那拉提-29-那拉提人生旷野-超分4K-f09a2b
+  source: D:\AI测试素材\那拉提\29-那拉提人生旷野-超分4K.png
+  size: 3840x2560  tone: 偏冷  sat: 101  hint: ['植被绿']
+  repo_copy: scenes/那拉提/那拉提-29-那拉提人生旷野-超分4K-f09a2b.jpg
+- id: 那拉提-s1_stream_log_4K-afc94f
+  source: D:\AI测试素材\那拉提\s1_stream_log_4K.png
+  size: 2560x3840  tone: 偏暖  sat: 48  hint: ['常规']
+  repo_copy: scenes/那拉提/那拉提-s1_stream_log_4K-afc94f.jpg
+- id: 那拉提-v89_green_meadow_snow_peak_4K-c0ce00
+  source: D:\AI测试素材\那拉提\v89_green_meadow_snow_peak_4K.png
+  size: 3840x2560  tone: 偏冷  sat: 49  hint: ['植被绿']
+  repo_copy: scenes/那拉提/那拉提-v89_green_meadow_snow_peak_4K-c0ce00.jpg
+- id: 那拉提-v91_wildflower_meadow_stream_4K-ad620c
+  source: D:\AI测试素材\那拉提\v91_wildflower_meadow_stream_4K.png
+  size: 3840x2560  tone: 偏冷  sat: 99  hint: ['植被绿']
+  repo_copy: scenes/那拉提/那拉提-v91_wildflower_meadow_stream_4K-ad620c.jpg
+- id: 那拉提-v93_stream_spruce_snow_peak_4K-b3a835
+  source: D:\AI测试素材\那拉提\v93_stream_spruce_snow_peak_4K.png
+  size: 2160x3840  tone: 中性  sat: 28  hint: ['植被绿']
+  repo_copy: scenes/那拉提/那拉提-v93_stream_spruce_snow_peak_4K-b3a835.jpg
+- id: 那拉提-新疆空中草原_那拉提_一切都美的都刚刚好_3_ele-finnick_来-3194a0
+  source: D:\AI测试素材\那拉提\新疆空中草原_那拉提_一切都美的都刚刚好_3_ele finnick_来自小红书网页版.jpg
+  size: 1080x1440  tone: 中性  sat: 50  hint: ['植被绿']
+  repo_copy: scenes/那拉提/那拉提-新疆空中草原_那拉提_一切都美的都刚刚好_3_ele-finnick_来-3194a0.jpg
+
+## 赛里木湖（补充场景）
+- id: sayram-lake
+  repo_copy: scenes/赛里木湖/sayram-lake.jpg
+
+## 天鹅湖（补充场景）
+- id: swan-lake
+  repo_copy: scenes/天鹅湖/swan-lake.jpg
