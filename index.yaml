@@ -606,3 +606,30 @@
 ## 天鹅湖（补充场景）
 - id: swan-lake
   repo_copy: scenes/天鹅湖/swan-lake.jpg
+
+## 库尔德宁机位 (5 张)
+
+- id: 库尔德宁机位-A-平视侧望-cbc7ea
+  source: 库尔德宁机位/A-平视侧望.png
+  size: 941x1672  tone: 偏冷  sat: 108  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁机位-A-平视侧望-cbc7ea.png
+
+- id: 库尔德宁机位-B-林缘仰拍-28b9f0
+  source: 库尔德宁机位/B-林缘仰拍.png
+  size: 941x1672  tone: 偏冷  sat: 53  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁机位-B-林缘仰拍-28b9f0.png
+
+- id: 库尔德宁机位-C-草甸贴地-ffa5d9
+  source: 库尔德宁机位/C-草甸贴地.png
+  size: 941x1672  tone: 偏冷  sat: 94  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁机位-C-草甸贴地-ffa5d9.png
+
+- id: 库尔德宁机位-D-林间框景-631625
+  source: 库尔德宁机位/D-林间框景.png
+  size: 941x1672  tone: 偏冷  sat: 62  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁机位-D-林间框景-631625.png
+
+- id: 库尔德宁机位-E-侧逆光-6a2269
+  source: 库尔德宁机位/E-侧逆光.png
+  size: 941x1672  tone: 偏冷  sat: 83  hint: ['植被绿']
+  repo_copy: scenes/库尔德宁/库尔德宁机位-E-侧逆光-6a2269.png
